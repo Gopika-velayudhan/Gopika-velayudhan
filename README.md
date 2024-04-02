@@ -2,9 +2,9 @@
 <h3 align="center">A passionate and aspiring full-stack-web-developer from India , React | Node| MongoDb | Express </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahal-sha&label=Profile%20views&color=0e75b6&style=flat" alt="Gopika" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gopika-kv&label=Profile%20views&color=0e75b6&style=flat" alt="Gopika" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/Gopika kv/" target="blank"><img src="https://img.shields.io/twitter/follow/Gopika C P?logo=linkedin&style=for-the-badge" alt="Gopikakv" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/gopika-kv-" target="blank"><img src="https://img.shields.io/twitter/follow/Gopika kv?logo=linkedin&style=for-the-badge" alt="Gopikakv" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce website](https://e-commerce-website-steel-alpha.vercel.app/) 
 
@@ -19,7 +19,7 @@
 <!-- <a href="https://codepen.io/Gopikakv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ajmalop" height="30" width="40" /></a> -->
 <!-- <a href="https://dev.to/ajmalop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ajmalop" height="30" width="40" /></a> -->
 
-<a href="https://www.linkedin.com/in/Gopika kv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SahalCP" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gopika-kv-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gopikakv" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23727767/Gopika kv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="SahalCP" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/gopikakv627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="SahalCP" height="30" width="40" /></a>
 <a href="https://www.instagram.com/gopikakv1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SahalCP" height="30" width="40" /></a>
