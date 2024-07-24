@@ -38,4 +38,4 @@
 <br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Gopikakv&show_icons=true&locale=en" alt="Gopikakv" /></p>
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopikakv&" alt="Gopikakv" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Gopika-velayudhan&" alt="Gopikakv" /></p>
